@@ -1,2 +1,5 @@
-# tfm_mlops_face_recognition_model_quantization
-Final Thesis: “Machine Learning Pipelines in cloud infrastructure: A case study on Face Recognition Model Quantization”  Master's degree: Data Science  Author: Ander Vesperinas Calderón
+**Final Thesis:** “Machine Learning Pipelines in cloud infrastructure: A case study on Face Recognition Model Quantization”
+
+**Master's degree:** Data Science
+
+**Author:** Ander Vesperinas Calderón
